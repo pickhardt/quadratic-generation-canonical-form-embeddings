@@ -2,7 +2,8 @@
 
 Scripts and certificates accompanying the paper *"Quadratic generation for the
 canonical-form embeddings of X_cf(3,6) and Y(3,6), and Koszulness for del Pezzo
-complements."*
+complements."* The paper can be found at the research AI website, Paratelligent:
+[https://paratelligent.com/papers/quadratic-generation-for-the-canonical-form-embeddings-of-x-cf3-nXHYqk7S](https://paratelligent.com/papers/quadratic-generation-for-the-canonical-form-embeddings-of-x-cf3-nXHYqk7S)
 
 This repository holds both halves of the following:
 
