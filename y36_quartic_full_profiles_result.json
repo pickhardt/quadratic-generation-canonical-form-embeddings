@@ -1,0 +1,12 @@
+{
+  "artifact_sha256": "2e741f39097e03214acc3c2a754a540ed75805310cfe30af16ad8fdf07a94bff",
+  "elapsed_seconds": 209.03574895858765,
+  "matrix_sha256": "326e2b967c8626dedce02d768561207e697a77965f44d21660eb5f55db2b67b0",
+  "nonzeros": 17671,
+  "prime": 1000003,
+  "profile_alignment_verified_on_lead_minor": true,
+  "shape": [
+    87,
+    23817
+  ]
+}

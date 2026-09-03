@@ -1,0 +1,16 @@
+{
+  "L2_c1sq": 42,
+  "L3_c1": 438,
+  "L_c1cube": -102,
+  "L_four": 1502,
+  "c1_four": -153,
+  "degree3_allowed_monomials": 2500,
+  "degree4_allowed_monomials": 6785,
+  "degree4_relation_nnz": 71680,
+  "degree4_relation_rows": 26082,
+  "functional_max": 2,
+  "functional_min": -6,
+  "linear_relation_rank": 14,
+  "reference_degree": 1,
+  "tenL_four_numerator": 15020000
+}

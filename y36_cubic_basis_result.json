@@ -1,0 +1,12 @@
+{
+  "artifact_sha256": "4b047ef78863a669e74f3bbfb04fa901e168ed911bfde0ede2fa55bc12170c39",
+  "cubic_kernel": 706,
+  "cubic_nonpivot_sha256": "a3ab6bedc2952e792178c5457ca23dd1a565195c4799db78bdc632e0fbba752b",
+  "cubic_rank": 7876,
+  "elapsed_seconds": 122.7402229309082,
+  "prime": 1000003,
+  "quadratic_rank": 1720,
+  "quadratic_standard_cubics": 8582,
+  "seed": 260728368,
+  "standard_cubic_basis_sha256": "d2c8919035d542a87f4e47aa3ad16e86e5a959fa37700fa2bd4d4c4399a10ed6"
+}

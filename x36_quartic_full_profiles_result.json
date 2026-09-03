@@ -1,0 +1,10 @@
+{
+  "artifact_sha256": "ab3961401f2a00926be8ce1bb89d8779a7eda3473d5b91d83ef9d1f4289e9f6c",
+  "matrix_sha256": "522487d1e0ea4607c00399d130d78398e48cd22629f23d9708a5bf8da66a3226",
+  "nonzeros": 76624,
+  "prime": 1000003,
+  "shape": [
+    81,
+    18776
+  ]
+}

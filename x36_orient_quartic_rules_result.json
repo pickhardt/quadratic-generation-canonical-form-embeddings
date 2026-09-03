@@ -1,0 +1,15 @@
+{
+  "artifact_sha256": "17ae39f2cc016a66913ee44bd3dfd9878bce1208e1acff962f608c7ee04ebb37",
+  "change_of_basis_nonzeros": 1269,
+  "elapsed_seconds": 0.1573009490966797,
+  "lead_indices_sha256": "2b70d127dcc41a304e6cbfce7113569fd11cc74d1ad1a54d02ec8fe18d123b91",
+  "oriented_matrix_sha256": "4a6d98d838f56ae73656032f8012d97cc8cde79d251e11bc5604442e234c54a8",
+  "oriented_nonzeros": 49112,
+  "prime": 1000003,
+  "raw_matrix_sha256": "522487d1e0ea4607c00399d130d78398e48cd22629f23d9708a5bf8da66a3226",
+  "raw_nonzeros": 76624,
+  "raw_shape": [
+    81,
+    18776
+  ]
+}

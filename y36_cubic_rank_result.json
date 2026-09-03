@@ -1,0 +1,21 @@
+{
+  "accepted_residuals_sha256": "ed7149fb6e359710126ea204d1a764ebad62e884df058c71fd02444857ecd007",
+  "certified_cubic_ideal_rank": 565924,
+  "confluence_residual_rank": 706,
+  "coordinate_indices_sha256": "5662241658ce088ef6341334c4a94b300d2988556336aaaa884ec26d6fff297a",
+  "normal_forms_cached": 367225,
+  "prime": 1000003,
+  "projected_echelon_basis_sha256": "8c62039476c6742902039751d0f25d1a2b35ca38505f24b24ff2231d5abb7454",
+  "projection_dimension": 706,
+  "projection_sha256": "79ce13aad4240513e5fbc10facd2d9de883e44a29738ffc64f1919fba9930469",
+  "quadratic_kernel_dimension": 9605,
+  "quadratic_pivot_indices_sha256": "9ea11a57eb660ed6afaa90a5f117820b09c92ef39573be2f7ce25c54c9051516",
+  "quadratic_rank": 1720,
+  "quadratic_rule_nnz": 366320,
+  "quadratic_rules_sha256": "c6865cfbdea584f795e45a197ea92ce5ffe6d672f16eda9b43da6d9589ce170d",
+  "residuals_tested": 424973,
+  "seed": 260728368,
+  "standard_cubics_after_quadratic_leads": 8582,
+  "target": 565924,
+  "variable_permutation_sha256": "aac0baa0d8d9b8d7759c34a0ddce5487fddd6ff9a13bb82b5c4f02b35eea7689"
+}

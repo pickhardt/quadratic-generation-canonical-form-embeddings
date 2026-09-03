@@ -1,0 +1,12 @@
+{
+  "confluence_residual_rank": 780,
+  "confluence_residuals_tested": 191761,
+  "image_degree3_rank": 6250,
+  "linear_rank": 126,
+  "prime": 1000003,
+  "quadratic_kernel_dimension": 6616,
+  "quadratic_quotient_degree3": 6250,
+  "quadratic_rank": 1385,
+  "seed": 260728368,
+  "standard_cubics_after_quadratic_leads": 7030
+}

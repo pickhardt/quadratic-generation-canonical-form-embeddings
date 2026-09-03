@@ -1,0 +1,15 @@
+# Dependencies for the certificate scripts.
+#
+# Versions are those recorded in the paper's Appendix A, except scipy, whose
+# version was not recorded; any recent 1.x is expected to work, since it is
+# used only for sparse assembly and least squares while parsing the Chow-ring
+# presentation (x36_chow_degree.py, x36_c2_blowup.py).
+#
+# Everything else the scripts import is from the standard library.
+
+python-flint==0.9.0    # FLINT 3.6.0
+numpy==2.5.0
+scipy
+
+# The C determinant program x36_nmod_det.c is not covered here; it links
+# against a shared FLINT. See "Determinants" in README.md.

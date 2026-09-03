@@ -1,0 +1,29 @@
+loading exact nmod matrix n=18695 file_cols=18695 bytes=1398012100 expected_full=1398012100
+loaded 2000/18695 elapsed=0.0s
+loaded 4000/18695 elapsed=0.1s
+loaded 6000/18695 elapsed=0.2s
+loaded 8000/18695 elapsed=0.2s
+loaded 10000/18695 elapsed=0.3s
+loaded 12000/18695 elapsed=0.3s
+loaded 14000/18695 elapsed=0.4s
+loaded 16000/18695 elapsed=0.5s
+loaded 18000/18695 elapsed=0.6s
+load complete elapsed=0.6s; starting FLINT nmod_mat_det
+heartbeat determinant elapsed=31s
+heartbeat determinant elapsed=61s
+heartbeat determinant elapsed=91s
+heartbeat determinant elapsed=121s
+heartbeat determinant elapsed=151s
+heartbeat determinant elapsed=181s
+heartbeat determinant elapsed=211s
+heartbeat determinant elapsed=242s
+heartbeat determinant elapsed=272s
+heartbeat determinant elapsed=302s
+heartbeat determinant elapsed=332s
+heartbeat determinant elapsed=362s
+heartbeat determinant elapsed=392s
+heartbeat determinant elapsed=422s
+heartbeat determinant elapsed=452s
+heartbeat determinant elapsed=482s
+DETERMINANT_MOD_P=942745
+det_seconds=490.793629 total_seconds=491.483562

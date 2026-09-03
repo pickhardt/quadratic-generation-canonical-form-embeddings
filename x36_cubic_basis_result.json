@@ -1,0 +1,10 @@
+{
+  "artifact_sha256": "54e9abd2d03205f24c5f31a0394108e945e5ab87fd3e5513a02b67992333d161",
+  "cubic_kernel": 780,
+  "cubic_rank": 6250,
+  "elapsed_seconds": 56.67707800865173,
+  "prime": 1000003,
+  "quadratic_rank": 1385,
+  "quadratic_standard_cubics": 7030,
+  "seed": 260728368
+}

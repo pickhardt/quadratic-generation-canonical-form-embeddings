@@ -1,0 +1,8 @@
+{
+  "determinant_mod_p": 92947,
+  "elapsed_seconds": 6145.673643112183,
+  "matrix_sha256": "8641090a44c97a0ebf1111432d64fa26877b83cc84f26b5528ec6b7694ffca82",
+  "n": 23730,
+  "nonzero": true,
+  "prime": 1000003
+}

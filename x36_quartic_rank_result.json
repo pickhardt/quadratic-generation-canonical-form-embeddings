@@ -1,0 +1,18 @@
+{
+  "accepted_residuals_sha256": "314a0b05b5c37d362843ca7b801c409bdffbdf75ba37df6b759a2c64807fe80e",
+  "certified_quadratic_quotient_upper_bound": 18695,
+  "cubic_rules": 780,
+  "elapsed_seconds": 228.58798003196716,
+  "geometric_h4": 18695,
+  "normal_forms_cached": 1369771,
+  "prime": 1000003,
+  "projected_echelon_basis_sha256": "de18b927f10a7ea953bef0fc71a2942fad313198eb52e907d2b7219a97c647e7",
+  "projection_dimension": 81,
+  "projection_sha256": "ae21005c0bd312435eafb2d33988dad390f60d07d39f17844bd3b03c38a57859",
+  "quadratic_rules": 6616,
+  "quartic_confluence_rank": 81,
+  "required_quartic_residual_rank": 81,
+  "residuals_tested": 195638,
+  "seed": 260728368,
+  "standard_quartics_after_degree_2_3_leads": 18776
+}

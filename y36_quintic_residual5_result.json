@@ -1,0 +1,27 @@
+{
+  "accepted_artifact_sha256": "4cf3d210c57f607550ad2545b3db4453bcfcd2a73115cbe079939ee16631be2f",
+  "accepted_residuals_sha256": "f695c93dc8ceff41379d3a0178212aaf3cd9cb9423198cf8d331408fb098017b",
+  "calls": {
+    "c": 4698,
+    "q": 341673,
+    "q4": 3809
+  },
+  "certified_quotient_upper_bound": 56341,
+  "critical_candidates_reached": 3806,
+  "critical_residuals_tested": 9193,
+  "echelon_artifact_sha256": "35c77a37c437dc02828f349fdc76482b89b2518c856ccf911dcef777ee2af0de",
+  "elapsed_seconds": 53.90713405609131,
+  "geometric_target": 56341,
+  "normal_forms_cached": 340987,
+  "prime": 1000003,
+  "projected_echelon_sha256": "19b33de1e0913a98df63f75a6bdaacce089e13d0cecdd2fadcf7ab8551bec7ff",
+  "projection_sha256": "211fa77683056e60d12cf166635fd8da864845e744ea1f687a021cba2004d4ee",
+  "quartic_leads_sha256": "d342d385dfc68ca86a4e3bbdfc27c471850192259b12cadfad1346f5dab7e43f",
+  "quartic_monomial_shadow": 529,
+  "quartic_rules": 87,
+  "rank_target": 5,
+  "residual_rank": 5,
+  "seed": 260728368,
+  "standard_quintics_after_quartic_leads": 56346,
+  "standard_quintics_before_quartic_leads": 56875
+}

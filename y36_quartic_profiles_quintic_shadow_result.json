@@ -1,0 +1,16 @@
+{
+  "elapsed_seconds": 854.1330482959747,
+  "prime": 1000003,
+  "profile_chunk_size": 128,
+  "profile_coordinates_scanned": 15744,
+  "profile_rank": 87,
+  "quartic_leading_monomials": 87,
+  "quartic_leads_sha256": "d342d385dfc68ca86a4e3bbdfc27c471850192259b12cadfad1346f5dab7e43f",
+  "quintics_removed_by_quartic_leads": 529,
+  "raw_quartic_relations": 87,
+  "raw_relations_sha256": "997d53ce02e2f6e42bd5c6606cdf47bce18109786a0c04a74c9c1c075d2d7259",
+  "residual_gap": 5,
+  "standard_quintics_after_degree_2_3_4_leads": 56346,
+  "standard_quintics_before_quartic_leads": 56875,
+  "target_hilbert_value": 56341
+}

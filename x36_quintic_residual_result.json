@@ -1,0 +1,28 @@
+{
+  "accepted_artifact_sha256": "a74903ab6e8f6e286c3c60d70e698da4ff3a54c7e622308bd23fa4cab1091cc4",
+  "accepted_residuals_sha256": "f406a3cacd4445b7ac199d25d743cb765066f982c234b8e93f85b7115ae491a1",
+  "calls": {
+    "c": 18668,
+    "q": 15353068,
+    "q4": 10000
+  },
+  "certified_quotient_upper_bound": 44196,
+  "critical_candidates_reached": 9961,
+  "critical_residuals_tested": 24908,
+  "echelon_artifact_sha256": "aaf75a5b255a83e23b37b013e7a459dd8e0f08757260bece70c64bf451ae333e",
+  "elapsed_seconds": 1156.2915499210358,
+  "geometric_target": 44196,
+  "normal_forms_cached": 15356828,
+  "prime": 1000003,
+  "projected_echelon_sha256": "fb58b85d1402aafcc6611912173a31d78a4772daaa7322a4cd5c948484ce1acc",
+  "projection_sha256": "8ee1a07dd13d6018dacfb677c04b38d5334c762819cfc73b2d3b0fb2b080f2e1",
+  "quartic_leads_sha256": "10c314901211149844c080aa3dd1fbac3113815954d3d95e9b81cdd3e71e35d0",
+  "quartic_monomial_shadow": 484,
+  "quartic_rules": 81,
+  "rank_target": 12,
+  "required_rank_for_geometric_target": 12,
+  "residual_rank": 12,
+  "seed": 260728368,
+  "standard_quintics_after_quartic_leads": 44208,
+  "standard_quintics_before_quartic_leads": 44692
+}

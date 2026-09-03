@@ -1,0 +1,57 @@
+[
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      1,
+      9,
+      39,
+      57
+    ],
+    "pivot_coordinate": 0
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      1,
+      20,
+      38,
+      52
+    ],
+    "pivot_coordinate": 1
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      1,
+      29,
+      39,
+      57
+    ],
+    "pivot_coordinate": 2
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      4,
+      9,
+      29,
+      40
+    ],
+    "pivot_coordinate": 3
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      29,
+      39,
+      49,
+      57
+    ],
+    "pivot_coordinate": 4
+  }
+]

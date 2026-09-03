@@ -1,0 +1,11 @@
+{
+  "cols": 23730,
+  "elapsed_seconds": 79.53933215141296,
+  "matrix_file": "y36_quartic_eval_23730_u32.bin",
+  "matrix_sha256": "8641090a44c97a0ebf1111432d64fa26877b83cc84f26b5528ec6b7694ffca82",
+  "point_seed": 271828182,
+  "points_sha256": "96f069dd381dbf576f875f7b8834adf62c61cda9d488ec93f8c6f3b7c6cec7a6",
+  "prime": 1000003,
+  "rows": 23730,
+  "selected_monomials_sha256": "63b04e1cd89c1a11b29db8140ec73d4e34ef280bd869f9a59fd346a81132a551"
+}

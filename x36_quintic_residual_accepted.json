@@ -1,0 +1,134 @@
+[
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      1,
+      9,
+      39,
+      60
+    ],
+    "pivot_coordinate": 0
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      1,
+      20,
+      38,
+      49
+    ],
+    "pivot_coordinate": 1
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      1,
+      29,
+      39,
+      60
+    ],
+    "pivot_coordinate": 2
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      4,
+      9,
+      29,
+      40
+    ],
+    "pivot_coordinate": 3
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      1,
+      29,
+      45,
+      60,
+      60
+    ],
+    "pivot_coordinate": 4
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      2,
+      11,
+      11,
+      63,
+      91
+    ],
+    "pivot_coordinate": 5
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      2,
+      11,
+      11,
+      86,
+      95
+    ],
+    "pivot_coordinate": 6
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      23,
+      57,
+      57,
+      71,
+      82
+    ],
+    "pivot_coordinate": 7
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      25,
+      63,
+      63,
+      69,
+      93
+    ],
+    "pivot_coordinate": 8
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      29,
+      56,
+      56,
+      77,
+      84
+    ],
+    "pivot_coordinate": 9
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      31,
+      62,
+      62,
+      75,
+      94
+    ],
+    "pivot_coordinate": 10
+  },
+  {
+    "alternate_action_index": 1,
+    "monomial": [
+      33,
+      68,
+      68,
+      74,
+      108
+    ],
+    "pivot_coordinate": 11
+  }
+]

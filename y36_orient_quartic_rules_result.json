@@ -1,0 +1,13 @@
+{
+  "artifact_sha256": "427cd9da705512c1d75bed38532e5f8723e9d31185d5f9dfa36a3686b691c7c1",
+  "change_of_basis_nonzeros": 170,
+  "elapsed_seconds": 0.1572558879852295,
+  "oriented_matrix_sha256": "28a361d80f94e3b9f4fac1307d0eaf0080be8706259f601279b0c7002d9059da",
+  "oriented_nonzeros": 16718,
+  "prime": 1000003,
+  "raw_nonzeros": 17671,
+  "raw_shape": [
+    87,
+    23817
+  ]
+}

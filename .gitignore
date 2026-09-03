@@ -1,0 +1,6 @@
+# Regenerable evaluation matrices (1.4 GB and 2.25 GB); see README.
+*_u32.bin
+__pycache__/
+*.pyc
+.DS_Store
+.idea
